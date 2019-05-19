@@ -1,5 +1,5 @@
 Locale 		= 'en'
-txt 		= false --change to true if you want to have everything saved into a log.txt file.
+txt 		= true --change to true if you want to have everything saved into a log.txt file.
 --commands
 command		= 'reportit' --command that is used to make a report
 list		= 'rlist' --command to show all reports
